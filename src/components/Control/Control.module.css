@@ -1,0 +1,17 @@
+.control {
+    padding-right: 25px;
+    padding-left: 25px;
+}
+
+.control > button {
+    margin-left: 10px;
+}
+
+.select {
+    margin-left: 30px;
+    width: 70px;
+}
+
+.control-input-field {
+    width: 200px;
+}
